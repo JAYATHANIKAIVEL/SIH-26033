@@ -72,37 +72,37 @@ Benefits:
 
 ### 1. Technologies to Be Used
 
-• HTML, CSS and JavaScript – To create the website and user interface.
+  • HTML, CSS and JavaScript – To create the website and user interface.
 
-• Python – For backend development and processing.
+  • Python – For backend development and processing.
 
-• Django – To develop the web application.
+  • Django – To develop the web application.
 
-• MySQL – To store farmer, product and customer details.
+  • MySQL – To store farmer, product and customer details.
 
-• Machine Learning – To predict the demand for agricultural products.
+  • Machine Learning – To predict the demand for agricultural products.
 
-• Google Maps API – To find the best delivery routes.
+  • Google Maps API – To find the best delivery routes.
 
 ### 2. Methodology and Process for Implementation
 
-1.Farmers and customers register and log in to the platform.
+  1.Farmers and customers register and log in to the platform.
 
-2.Farmers upload their products, available quantities and prices.
+  2.Farmers upload their products, available quantities and prices.
 
-3.Customers and bulk buyers view the available products.
+  3.Customers and bulk buyers view the available products.
 
-4.Customers select products and place orders.
+  4.Customers select products and place orders.
 
-5.The system confirms the orders.
+  5.The system confirms the orders.
 
-6.The logistics system manages transportation and delivery.
+  6.The logistics system manages transportation and delivery.
 
-7.AI helps to find the best delivery routes.
+  7.AI helps to find the best delivery routes.
 
-8.Products are delivered directly to customers.
+  8.Products are delivered directly to customers.
 
-9.AI analyzes previous sales data and predicts future product demand.
+  9.AI analyzes previous sales data and predicts future product demand.
 
 ### Flowchart
 <img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/f61f97b7-2c5f-4fa0-8cd7-616ce2dd03d6" />
@@ -157,33 +157,33 @@ Benefits:
 
     Economic Benefits:
 
-     •Increased earnings for farmers.
+      •Increased earnings for farmers.
 
-     •Reduced prices for consumers.
+      •Reduced prices for consumers.
 
-     •Reduced dependency on intermediaries.
+      •Reduced dependency on intermediaries.
 
-     •Better market opportunities for small farmers.
+      •Better market opportunities for small farmers.
 
-     •Social Benefits:
+    Social Benefits:
 
-     •Improved digital awareness among farmers.
+      •Improved digital awareness among farmers.
 
-     •Better communication between farmers and buyers.
+      •Better communication between farmers and buyers.
 
-     •Support for rural economic development.
+      •Support for rural economic development.
 
-     •Increased opportunities for small agricultural businesses.
+      •Increased opportunities for small agricultural businesses.
 
-   Environmental Benefits:
+    Environmental Benefits:
 
-     •Reduced unnecessary transportation.
+      •Reduced unnecessary transportation.
 
-     •Optimized delivery routes.
+      •Optimized delivery routes.
 
-     •Reduced food wastage through better demand forecasting.
+      •Reduced food wastage through better demand forecasting.
 
-     •More efficient use of transportation resources.
+      •More efficient use of transportation resources.
 
 ## Research and References
 1.National Agriculture Market (e-NAM) – https://enam.gov.in/
