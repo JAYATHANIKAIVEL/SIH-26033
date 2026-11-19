@@ -155,35 +155,35 @@ Benefits:
 
 2. Benefits of the Solution
 
-Economic Benefits:
+    Economic Benefits:
 
-   •Increased earnings for farmers.
+     •Increased earnings for farmers.
 
-   •Reduced prices for consumers.
+     •Reduced prices for consumers.
 
-   •Reduced dependency on intermediaries.
+     •Reduced dependency on intermediaries.
 
-   •Better market opportunities for small farmers.
+     •Better market opportunities for small farmers.
 
-   •Social Benefits:
+     •Social Benefits:
 
-   •Improved digital awareness among farmers.
+     •Improved digital awareness among farmers.
 
-   •Better communication between farmers and buyers.
+     •Better communication between farmers and buyers.
 
-   •Support for rural economic development.
+     •Support for rural economic development.
 
-   •Increased opportunities for small agricultural businesses.
+     •Increased opportunities for small agricultural businesses.
 
-Environmental Benefits:
+   Environmental Benefits:
 
-   •Reduced unnecessary transportation.
+     •Reduced unnecessary transportation.
 
-   •Optimized delivery routes.
+     •Optimized delivery routes.
 
-   •Reduced food wastage through better demand forecasting.
+     •Reduced food wastage through better demand forecasting.
 
-   •More efficient use of transportation resources.
+     •More efficient use of transportation resources.
 
 ## Research and References
 1.National Agriculture Market (e-NAM) – https://enam.gov.in/
